@@ -5,7 +5,7 @@ Hola! Soy Romina, analista de sistemas con formación en **Desarrollo Web Full S
 ### 📊 Data Analysis
 En esta sección encontrarás mis trabajos enfocados en la extracción, limpieza y visualización de datos.
 *   **Excel y Tableau:** Descripción breve del problema ( Análisis de ventas y dashboard de logística).
-*   **Herramientas:** Python, SQL, Tableau Public.
+*   **Herramientas:** Python, SQL, Tableau Public, Power bi, Excel.
 
 ### 💻 Desarrollo Web
 Proyectos creados durante mi formación Full Stack, enfocados en la experiencia de usuario y funcionalidad.
